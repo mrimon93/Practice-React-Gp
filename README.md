@@ -1,7 +1,5 @@
 # Practice-React-Gp
 
-# Practice-React-Gp
-
 # Weather App
 Overview
 
